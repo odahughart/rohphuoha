@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohghaes.redstonecompany.mobi/sitemap.xml
